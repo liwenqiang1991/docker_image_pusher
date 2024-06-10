@@ -6,3 +6,4 @@ homeassistant/aarch64-homeassistant:latest
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 killadm/aarch64-emqx:30
+emqx/emqx:5.4.1
